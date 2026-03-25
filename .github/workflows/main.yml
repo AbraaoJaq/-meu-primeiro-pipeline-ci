@@ -1,3 +1,6 @@
+runs: 
+  using: 'node24'
+
 name: Pipeline de CI/CD - Meu Primeiro RobÃ´
 
 # Quando este workflow deve ser executado?
